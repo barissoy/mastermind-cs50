@@ -4,6 +4,14 @@
 
 ---
 
+## 📝 Description:
+
+Baris' Mastermind is a fully featured, modernized recreation of the classic Mastermind logic game, implemented entirely in Python using Tkinter, Pillow (PIL), and standard libraries. This project is designed both as a functional game and as a demonstration of structured Python design, GUI development, state management, and clean architecture. It is submitted as my Final Project for CS50P.
+
+This README explains the purpose of the project, its files, the architectural decisions I made, and the reasoning behind the design choices. It is intentionally detailed—over 500 words—to meet the project requirements and also to serve as documentation for anyone wishing to understand or extend the game.
+
+---
+
 ## 📑 Table of Contents
 - [Description](#-description)
 - [Project Overview](#-project-overview)
@@ -13,14 +21,6 @@
 - [Part of a Learning Journey](#-part-of-a-learning-journey)
 - [Links](#-links)
 - [License](#-license)
-
----
-
-## 📝 Description:
-
-Baris' Mastermind is a fully featured, modernized recreation of the classic Mastermind logic game, implemented entirely in Python using Tkinter, Pillow (PIL), and standard libraries. This project is designed both as a functional game and as a demonstration of structured Python design, GUI development, state management, and clean architecture. It is submitted as my Final Project for CS50P.
-
-This README explains the purpose of the project, its files, the architectural decisions I made, and the reasoning behind the design choices. It is intentionally detailed—over 500 words—to meet the project requirements and also to serve as documentation for anyone wishing to understand or extend the game.
 
 ---
 
